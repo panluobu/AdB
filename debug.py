@@ -1,4 +1,4 @@
-#cd /Users/panluobu/Documents/Mem
+ #cd /Users/panluobu/Documents/Mem
 #python memp.py
 import re
 import os
