@@ -1,0 +1,3 @@
+adb shell dumpsys meminfo net.peakgames.toonblast > C:\Users\Meursault\Documents\getAndroidappmsg\logt.txt
+
+adb logcat |grep "com.panda.unity.blastsaga" > /Users/tugame/Desktop/pandalog3.txt
